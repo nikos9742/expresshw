@@ -1,0 +1,23 @@
+{
+  "name": "expresshw",
+  "version": "1.0.0",
+  "description": "Test App For Docker Hub",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikos9742/expresshw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikos9742/expresshw/issues"
+  },
+  "homepage": "https://github.com/nikos9742/expresshw#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
